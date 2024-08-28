@@ -13,4 +13,5 @@ using [GNU Make](https://www.gnu.org/software/make/)
 ```
 make
 ```
-[example](sand_example.gif)
+## Example
+<img src="https://github.com/AaroInginmaa/Falling-Sand/blob/main/sand_example.gif" width="500" height="500"/>
