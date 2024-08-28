@@ -13,3 +13,4 @@ using [GNU Make](https://www.gnu.org/software/make/)
 ```
 make
 ```
+[example](sand_example.gif)
