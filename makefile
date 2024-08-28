@@ -5,7 +5,7 @@ SDIR = src
 OBJS = main.o
 INC = -I./include
 LDIR = -L./lib
-LINKS = -lmingw32 -lSDL2main -lSDL2
+LINKS = -lSDL2main -lSDL2
 
 all: $(OBJS)
 	$(CC) $(CFLAGS) $(OBJS) -o $(ODIR)/fallingsand.exe $(INC) $(LDIR) $(LINKS)
